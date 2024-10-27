@@ -23,8 +23,11 @@ Búsqueda Binaria: Genera un arreglo, lo ordena usando el método Shell Sort y l
 Salir: Cierra el programa.
 Funciones clave
 generarArreglo: Llena el arreglo con números aleatorios para que pueda usarse en las búsquedas.
+
 metodoShell: Ordena el arreglo utilizando Shell Sort, necesario para realizar búsquedas binarias.
+
 busquedaSecuencial: Realiza una búsqueda secuencial en el arreglo buscando un número específico.
+
 busquedaBinaria: Realiza una búsqueda binaria en el arreglo (previamente ordenado) buscando un número específico.
 
 *repostorio original, que se trabajo por cada sesion en clases: https://github.com/Jose-An608/04_eficiencia
